@@ -1,0 +1,7 @@
+fastapi[standard]==0.115.7
+sqlmodel==0.0.22
+alembic==1.14.1
+psycopg2-binary==2.9.10
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.20
+pyjwt==2.10.1
